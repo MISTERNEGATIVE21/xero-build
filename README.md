@@ -13,7 +13,7 @@
 I call this the **Flagship** simply because I use it and have been using it since its inception and it's the DE I love and contribute to the most. It can be unstable at times however, since it's constantly evolving and keeps getting new features non stop making the most customizable/riceable DE out there. That's why I love it so much. So it's targeted to anyone who likes that level of tinkering...
 
 <p align="center">
-    <img src="https://i.imgur.com/ejZ1ZQv.png" alt="logo">
+    <img src="https://i.imgur.com/kAuKy3d.png" alt="logo">
 </p>
 
 ### GTK Theming
@@ -51,7 +51,7 @@ I call this the **Gnome Dev Spin** simply because, unlike the **KDE Flagship**, 
 > While some useful extensions were included, I highly recommend against installing too many if you want to keep your system stable. Also, please avoid using GTK themes, as they might cause overall issues since the Gnome devs do not like it when you do. In the end it's all up to you. You have been warned ;)
 
 <p align="center">
-    <img src="https://i.imgur.com/mNoCq0Q.jpeg" alt="logo">
+    <img src="https://i.imgur.com/gWiGd4D.jpeg" alt="logo">
 </p>
 
 ### Included Features
@@ -68,8 +68,8 @@ This "Spin" includes everything from the "Flagship" [**KDE Release**](https://gi
 | ✅ Caffeine              | ✅ nautilus-compare     |
 | ✅ GSConnect             | ✅ nautilus-admin-gtk4  |
 | ✅ Arch-Update           | ✅ nautilus-image-converter |
-| ✅ Dash-to-Dock          | ✅ nautilus-open-any-terminal |
-| ✅ Blur-My-Shell         | ✅ **Ghostty** Terminal [**Documentation**](https://ghostty.org/docs/config/reference) |
+| ✅ Dash-to-Dock          | ✅ nautilus-open-in-ptyxis |
+| ✅ Blur-My-Shell         | ✅ **Ptyxis** Terminal  |
 
 </div>
 

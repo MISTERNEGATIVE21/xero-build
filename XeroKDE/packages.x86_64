@@ -152,7 +152,7 @@ rustup
 repoctl
 preload
 xlapit-cli
-xero-welcome
+#xero-welcome
 calamares-app
 calamares-cfg
 desktop-config
@@ -322,7 +322,6 @@ virtualbox-guest-utils
 ### Applications
 
 jq
-gmrun
 figlet
 ostree
 lolcat
@@ -371,8 +370,7 @@ tela-circle-icon-theme-purple
 
 ### Browser
 
-firefox
-firefox-ublock-origin
+falkon
 
 ### Multimedia
 
@@ -445,12 +443,13 @@ xmlstarlet
 
 yt-dlp
 wavpack
-wine-meta
 unarchiver
+rate-mirrors
 gnustep-base
 
 ## Complements
 
+pacseek
 parallel
 xsettingsd
 polkit-qt6

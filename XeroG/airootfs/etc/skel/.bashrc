@@ -98,6 +98,9 @@ alias hw='hwinfo --short'
 ## HBlock
 alias ublock='sudo hblock'
 
+#Fixes & Tools
+alias rpower='sudo systemctl restart power-profiles-daemon'
+
 #youtube-dl
 alias yta-best="yt-dlp --extract-audio --audio-format best "
 alias ytv-best="yt-dlp -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4 "

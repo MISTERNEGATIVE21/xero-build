@@ -165,7 +165,7 @@ repoctl
 preload
 libgdata
 xlapit-cli
-xero-welcome
+#xero-welcome
 calamares-app
 calamares-g-cfg
 desktop-config-gnome
@@ -198,7 +198,6 @@ hblock
 timeshift
 cryptsetup
 brightnessctl
-caffeine-ng-git
 power-profiles-daemon
 
 ### Bash & Other
@@ -356,7 +355,7 @@ virtualbox-guest-utils
 ### Applications
 
 jq
-gmrun
+chafa
 figlet
 ostree
 lolcat
@@ -403,8 +402,7 @@ kvantum-theme-libadwaita-git
 
 ### Browser
 
-firefox
-firefox-ublock-origin
+epiphany
 
 ### Multimedia
 
@@ -468,6 +466,8 @@ python-websockets
 ## GNOME Stuff
 ## https://archlinux.org/groups/x86_64/gnome/
 
+gnac
+gmtk
 tecla
 loupe
 rygel
@@ -519,7 +519,7 @@ geary
 gedit
 glade
 sysprof
-ghostty
+ptyxis
 evolution
 endeavour
 accerciser
@@ -532,6 +532,7 @@ gnome-nettool
 gnome-applets
 gnome-firmware
 gnome-podcasts
+gnome-subtitles
 gnome-dictionary
 gnome-multi-writer
 gnome-bluetooth-3.0
@@ -547,6 +548,14 @@ gnome-appfolders-manager
 ###              GNOME Desktop Extras               ###
 #######################################################
 
+## Adwaita stuff
+
+libadwaita
+adwaita-fonts
+adwaita-cursors
+adwaita-icon-theme
+adwaita-icon-theme-legacy
+
 ## GDM
 
 gdm
@@ -556,8 +565,8 @@ gdm
 nautilus-share
 nautilus-compare
 nautilus-admin-gtk4
+nautilus-open-in-ptyxis
 nautilus-image-converter
-nautilus-open-any-terminal
 
 ## GNOME Shell Extensions
 
@@ -574,9 +583,10 @@ gnome-shell-extension-weather-oclock
 
 ### Useful shit
 
+pacseek
 deja-dup
+rate-mirrors
 libappindicator-gtk3
-gnome-gesture-improvements
 
 #######################################################
 ###                XeroLinux Extras                 ###
