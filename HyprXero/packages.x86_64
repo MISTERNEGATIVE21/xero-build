@@ -194,9 +194,6 @@ bash-completion
 ### Xorg Applications
 ### https://archlinux.org/groups/x86_64/xorg-apps/
 
-xorg-apps
-xorg-xinit
-xorg-server
 xorg-xwayland
 
 #######################################################
@@ -472,7 +469,7 @@ lib32-wayland
 wayland-protocols
 
 #######################################################
-###                XeroLinux Extras                 ###https://github.com/ryzendew/AF-package-manager.git
+###                XeroLinux Extras                 ###
 #######################################################
 
 vi
