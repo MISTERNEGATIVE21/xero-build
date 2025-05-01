@@ -134,7 +134,6 @@ ntp
 most
 wget
 dialog
-repoctl
 dnsutils
 logrotate
 
@@ -205,6 +204,7 @@ xorg-xwayland
 
 ### CPU ucode
 
+fwupd
 amd-ucode
 intel-ucode
 
